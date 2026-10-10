@@ -1,5 +1,10 @@
 <div align="center">
 
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Nguyen%20Minh%20Duy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%7C%20Machine%20Learning%20%7C%20Software%20Engineering&descSize=18&descAlignY=56"
+/>
+
 <h1>Hi 👋, I'm Nguyen Minh Duy</h1>
 
 <img
