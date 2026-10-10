@@ -35,3 +35,18 @@
 
 </div>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,idea&perline=9" />
+
+</div>
+
+### 🤖 AI / Machine Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=5" />
+
+</div>
