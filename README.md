@@ -50,35 +50,3 @@
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn&perline=5" />
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/minhduy10/Uav-ugv-cooperative-routing-rl">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minhduy10&repo=Uav-ugv-cooperative-routing-rl&theme=github_dark&hide_border=true"
-  />
-</a>
-
-<a href="https://github.com/minhduy10/OlympicAI">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minhduy10&repo=OlympicAI&theme=github_dark&hide_border=true"
-  />
-</a>
-
-<a href="https://github.com/minhduy10/Java_Exercises">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=minhduy10&repo=Java_Exercises&theme=github_dark&hide_border=true"
-  />
-</a>
-
-</div>
-
----
-
